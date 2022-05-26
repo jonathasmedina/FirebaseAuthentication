@@ -3,10 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/FirebaseAuthentication/app/src/main/res/layout/activity_cria_usuario.xml" value="0.25" />
-        <entry key="..\:/FirebaseAuthentication/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/FirebaseAuthentication/app/src/main/res/layout/activity_recupera_senha.xml" value="0.1703125" />
-        <entry key="..\:/FirebaseAuthentication/app/src/main/res/layout/activity_usuario_logado.xml" value="0.1703125" />
+        <entry key="..\:/FirebaseAuthentication/app/src/main/res/drawable/ic_launcher_background.xml" value="0.16" />
+        <entry key="..\:/FirebaseAuthentication/app/src/main/res/layout/activity_cria_usuario.xml" value="0.22" />
+        <entry key="..\:/FirebaseAuthentication/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/FirebaseAuthentication/app/src/main/res/layout/activity_recupera_senha.xml" value="0.22" />
+        <entry key="..\:/FirebaseAuthentication/app/src/main/res/layout/activity_usuario_logado.xml" value="0.33" />
       </map>
     </option>
   </component>
